@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-mymeticorereview.gr8.com	TRUE	/	FALSE	1999999999	squeeze-page	8cptgdr665kc4hb0l98bethsuh
-mymeticorereview.gr8.com	TRUE	/	FALSE	1999999999	G7J80[variantVersion]	0
-
